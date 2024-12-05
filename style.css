@@ -1,0 +1,12 @@
+button {
+  background-color: red;
+  border-radius: 1rem;
+  color: white;
+  padding: 8px;
+}
+h1 {
+  font-size: 48px;
+}
+p {
+  color: blue;
+}
